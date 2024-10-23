@@ -55,7 +55,7 @@ Make sure to carefully read and follow the instructions. Good luck!
 
 - As you complete your tasks, tests will start passing in the terminal. The tests are not exhaustive, but more like "smoke tests" that look for obvious breakage.
 
-- Use your attention-to-detail skills to ensure that your site matches the look and behavior of the mock exactly.
+- Use your attention-to-detail skills to ensure that your site matches the look and behavior of the mock exactly.`
 
 - Have fun, and check out the Solution Video for this project if you need help!
 
